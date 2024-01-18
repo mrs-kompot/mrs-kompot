@@ -8,7 +8,7 @@ Hey there!👋 My name is Polina and I began my coding journey back in December 
       I developed a strong passion for coding as it allows me to express my creativity and bring my project ideas to life, specifically I want to work on my own smart home system with my husband.
 
 🌐 I am fluent in 3 languages: English, French, and Russian; I also know a bit of German and Spanish. 
-      Additionally, I hold dual citizenship - 🟥🍁🟥 / ⚪️🔵🔴
+      Additionally, I am a dual citizen - 🟥🍁🟥 / ⚪️🔵🔴
 
 💻 I'm currently seeking a remote internship opportunity in front-end development or database management. 
       Moreover, I am open to collaborating with business owners to create their custom website, while also enhancing their metrics through SEO optimization and analytics.
